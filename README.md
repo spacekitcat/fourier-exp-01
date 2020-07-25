@@ -1,6 +1,6 @@
 # untitled Fourer transform experiments
 
-Fourier transforms are really cool and I want to understand the maths better.
+Fourier transforms are really cool and I want to learn the maths and concepts behind it all.  
 
 ## Journal
 
@@ -19,4 +19,6 @@ cd <repository-name>
 make
 ```
 
-## Sources
+## Learning Material
+
+[Brief review of complex numbers](https://stanford.edu/~boyd/ee102/complex-primer.pdf)
