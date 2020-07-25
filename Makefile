@@ -268,7 +268,7 @@ top_build_prefix =
 top_builddir = .
 top_srcdir = .
 fourierexp01_SOURCES = wav-reader.c main.c
-fourierexp01_LDADD = -lportaudio $(LDADD)
+fourierexp01_LDADD = $(LDADD)
 all: all-am
 
 .SUFFIXES:
